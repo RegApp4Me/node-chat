@@ -7,21 +7,13 @@ Real time chat room built on Node.js, Express & jQuery. Includes active member l
 
 Install
 -----------------------------------------------------------
-1) Configure App
-
-Edit the first line of public/javascripts/chat.js to identify your Socket.io instance
+1. Configure App: Edit the first line of public/javascripts/chat.js to identify your Socket.io instance
 
 
-2) Install Required Modules
-
-run `npm install`
+2. Install Required Modules: Run `npm install`
 
 
-3) Start it
-
-run `node app.js`
+3. Start it: Run `node app.js`
 
 
-4) Join Room
-
-Goto `http://localhost:3000`
+4. Join Room: Goto `http://localhost:3000`
